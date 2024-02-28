@@ -1,8 +1,8 @@
 {
-  "name": "soul-mate",
-  "productName": "soul-mate",
+  "name": "electron-vite-boilerplate",
+  "productName": "electron-vite-boilerplate",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "electron by vite",
   "main": ".vite/build/main.js",
   "scripts": {
     "start": "electron-forge start",
